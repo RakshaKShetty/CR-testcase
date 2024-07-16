@@ -13,8 +13,12 @@
   "icon": "diamond",
   "pages": [
     {
-      "id": "Page1",
+      "id": "MONGO",
       "isDefault": true
+    },
+    {
+      "id": "GSheetcruid",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

@@ -1,11 +1,12 @@
 {
   "gitSyncId": "66963e92ecc88d3248251807_77f5612c-d100-4d5c-934a-cd3287ecef58",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +27,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "MONGO",
+    "slug": "mongo"
   }
 }
