@@ -155,6 +155,7 @@
       "name": "selected",
       "pluginId": "google-sheets-plugin"
     },
+    "dynamicBindingPathList": [],
     "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "GSheetcruid",
